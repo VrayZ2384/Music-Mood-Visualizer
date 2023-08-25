@@ -46,6 +46,10 @@ The Music Mood Visualizer is a multi-modal Generative Adversarial Network (GAN) 
 
 5. Download and use the generated images and videos for your creative projects.
 
+## Recommended Environment
+
+It is recommended to use Google Colab for running this project, as Google's GPUs make computation more efficient and accelerate the visual generation process.
+
 ## Example Outputs
 
 
