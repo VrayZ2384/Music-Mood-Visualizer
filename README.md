@@ -1,7 +1,5 @@
 # Music-Mood-Visualizer
 
-# Music Mood Visualizer
-
 ## Overview
 
 The Music Mood Visualizer is a multi-modal Generative Adversarial Network (GAN) project that utilizes generative AI and Python, along with the PyTorch framework. This innovative system analyzes audio data from music and generates customized images and videos that match the mood of the song.
