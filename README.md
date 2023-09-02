@@ -15,9 +15,9 @@ The Music Mood Visualizer is a multi-modal Generative Adversarial Network (GAN) 
 
 ## How it Works
 
-1. **Input**: Users provide a YouTube link to a song they want to analyze and also provide prompts to customize the visuals.
+1. **Input**: Users provide a YouTube link to a song they want to analyze.
 
-![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/caf5d1e7-d4a1-40b8-bc6e-6c259384d37a)
+![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/3b9c73ed-7970-4bdb-a3ab-43e9be5ec135)
 
 2. **Mood Analysis**: The system extracts audio features from the song to determine its mood (Happy, Sad, or Neutral).
 
@@ -25,13 +25,13 @@ The Music Mood Visualizer is a multi-modal Generative Adversarial Network (GAN) 
 
 3. **Output**: Based on the mood, the system generates images and videos that match the song's emotional tone and the users receive stunning visuals that complement their music, ready to be used in various creative projects.
 
-![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/8dcc8368-e53e-414b-b89e-1170c827dbf5)
+![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/6cfc944d-8b96-4f7d-b400-16e31a126943)
 
-![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/536f51a3-6663-4503-85ed-36679151c426)
+![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/6b336e2f-a81a-4b4d-9298-35f3b5c7964c)
 
-![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/5ea969a0-9838-4eb1-ac92-a7b282ffd981)
+![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/9c0df89c-7cd7-4390-a236-94e0bd7572df)
 
-https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/d3729478-b218-46a0-add1-2190d9db6805
+https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/adff9bdc-12c2-4917-a112-df9bf477bf68
 
 
 ## Technical Skills and Tools Used
