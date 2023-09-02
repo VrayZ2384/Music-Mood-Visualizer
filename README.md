@@ -1,4 +1,4 @@
-![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/e28d788e-4c28-44e1-96a5-d4ca20862e46)# Music-Mood-Visualizer
+# Music-Mood-Visualizer
 
 ## Overview
 
@@ -26,7 +26,8 @@ The Music Mood Visualizer is a multi-modal Generative Adversarial Network (GAN) 
 ![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/536f51a3-6663-4503-85ed-36679151c426)
 ![image](https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/5ea969a0-9838-4eb1-ac92-a7b282ffd981)
 
-https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/b241ebe7-94d3-4327-86ab-cd9282560c8c
+https://github.com/VrayZ2384/Music-Mood-Visualizer/assets/66193128/d3729478-b218-46a0-add1-2190d9db6805
+
 
 ## Technical Skills and Tools Used
 
